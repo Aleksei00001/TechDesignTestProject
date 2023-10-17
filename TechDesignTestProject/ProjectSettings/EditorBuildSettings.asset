@@ -6,6 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/scene_2_sea.unity
+    path: Assets/Scenes/scene_0_menu.unity
+    guid: 23d79504ad9cbff488ca2ba25e37bf4b
+  - enabled: 1
+    path: Assets/Scenes/scene_1_coast.unity
+    guid: 6ce265326607d7445bec0ad1d7a191bb
+  - enabled: 1
+    path: Assets/Scenes/scene_2_rock.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a2cba7fc52121d5479fdfb0d7f421192, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 60466e944e9df204f8f732b9fc53b04c, type: 2}
